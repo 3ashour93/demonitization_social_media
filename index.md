@@ -2,10 +2,9 @@
 
 <iframe width="600" height="600" frameborder="0" src="https://ncase.me/loopy/v1.1/?embed=1&data=[[[1,661,315,0.5,%22%252B%22,4],[2,663,474,0.5,%22-%22,5],[3,462,323,1,%22Advertising%2520%252B%22,4],[4,877,317,1,%22Influencer%2520%252B%22,4],[6,427,550,1,%22Advertising%2520-%22,5],[7,933,557,1,%22Influencer%2520-%22,5],[9,673,679,0.5,%22Neutral%2520users%22,1]],[[2,1,94,-1,0],[1,2,89,1,0],[4,1,-108,1,0],[3,1,101,1,0],[3,2,-111,-1,0],[4,2,88,-1,0],[6,2,-78,1,0],[7,2,49,1,0],[6,1,307,-1,0],[7,1,-341,-1,0],[9,6,68,1,0],[9,7,-37,1,0],[9,3,290,1,0],[9,4,-307,1,0]],[[661,230,%22Pro%22],[672,580,%22Against%22],[300,401,%22Advertising%2520Forces%22],[1056,377,%22Influencer%2520Forces%22]],9%5D"></iframe>
 
-### Purpose
+## Purpose
 
 The purpose of this piece is to investigate how to disarm polarization by showing when advertising and influencers powers are removed from the social media sphere, there can be a way to reach mutual agreements and can generate a healthier argumentative environment.
-![image](https://user-images.githubusercontent.com/6972594/158030214-1314b693-c3a5-468b-ad5b-13e218804a56.png)
 
 ## Findings
 
